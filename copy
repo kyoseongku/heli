@@ -1,0 +1,5 @@
+#! /bin/bash
+
+cp -r /mnt/hgfs/Projects/heli/CS174a\ template/* ./CS174a\ template/
+cp -r /mnt/hgfs/Projects/heli/GL/* ./GL/
+cp -r /mnt/hgfs/Projects/heli/my\ code/* ./my\ code/
